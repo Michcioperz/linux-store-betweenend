@@ -1,0 +1,3 @@
+[submodule "linux-store-frontend"]
+	path = linux-store-frontend
+	url = https://github.com/flathub/linux-store-frontend
